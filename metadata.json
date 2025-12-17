@@ -1,0 +1,7 @@
+{
+  "name": "ResiGuard PMS",
+  "description": "A comprehensive Property Management System for residential buildings handling tenants, maintenance, security, and amenities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
